@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BE11EEE61BE3FC0300816835"
-               BuildableName = "Device.app"
-               BlueprintName = "Device"
+               BlueprintIdentifier = "CD022C201C52D2E7007D5608"
+               BuildableName = "DeviceLib.framework"
+               BlueprintName = "DeviceLib"
                ReferencedContainer = "container:Device.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BE11EEE61BE3FC0300816835"
-            BuildableName = "Device.app"
-            BlueprintName = "Device"
-            ReferencedContainer = "container:Device.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BE11EEE61BE3FC0300816835"
-            BuildableName = "Device.app"
-            BlueprintName = "Device"
+            BlueprintIdentifier = "CD022C201C52D2E7007D5608"
+            BuildableName = "DeviceLib.framework"
+            BlueprintName = "DeviceLib"
             ReferencedContainer = "container:Device.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BE11EEE61BE3FC0300816835"
-            BuildableName = "Device.app"
-            BlueprintName = "Device"
+            BlueprintIdentifier = "CD022C201C52D2E7007D5608"
+            BuildableName = "DeviceLib.framework"
+            BlueprintName = "DeviceLib"
             ReferencedContainer = "container:Device.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

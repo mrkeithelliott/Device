@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import DeviceLib
 
 class ViewController: UIViewController {
 
